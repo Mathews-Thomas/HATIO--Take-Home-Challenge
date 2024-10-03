@@ -68,6 +68,5 @@ src/
 ├── controllers/  
 ├── middleware/      
 ├── models/        
-├── routes    
-├── .env     
+├── routes        
 └── app.js     
