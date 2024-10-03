@@ -51,11 +51,15 @@ src/
 ├── index.jsx       # Application entry point
 └── styles.css      # Global styles (Tailwind)
 
-## Run Project
-
 **Clone the repository**
 ```bash
-add .env file with MONGO_URI,JWT_SECRET,GITHUB_TOKEN
+Create a .env file in the root of the backend directory (where app.js is located) with the following environment variables:
+MONGO_URI=your_mongo_db_url
+JWT_SECRET=your_jwt_secret
+GITHUB_TOKEN=your_github_gist_token
+
+## Run Project
+
 npm install 
 npm start
 
