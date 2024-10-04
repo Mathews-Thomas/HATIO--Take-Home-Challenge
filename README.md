@@ -1,6 +1,7 @@
 # React + Vite Todo Management App
 
 This is a full-stack Todo management application built with **React** and **Vite** on the frontend and **Express** and **MongoDB** on the backend. The app allows users to create projects, manage todos, and export project summaries as a GitHub Gist. It includes features like user authentication (login/register), adding, updating, marking as complete, and deleting todos.
+Website is live at: https://demo-host-ten.vercel.app
 
 ## Features
 
